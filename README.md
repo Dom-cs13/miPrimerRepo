@@ -1,6 +1,6 @@
 # Mi Primer Repo
  Repocistorio comunitario para aprender
 ## Integrantes 
-+ Dominique Guillermo 
++ Dominique Contreras
 + Gabriel Perez
 + Jenifer Saquic
